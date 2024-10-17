@@ -19,7 +19,7 @@ Installation is not necessary, simply follow the url provided below.
 
 ## Usage
 
-To use, go to: 
+To use, go to: https://weatherdashboard-6qse.onrender.com/
 
 Start by entering a city of your choice and you will be provided the 5-day forcast.
 
